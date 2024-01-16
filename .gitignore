@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# build output folders
+dist
+build
+.cache
+.nuxt
+
+# ide files
+*.swp
+*.swo
+
+# os files
+.DS_Store
+
